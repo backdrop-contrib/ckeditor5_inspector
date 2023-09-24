@@ -12,7 +12,7 @@ See the [official documentation](https://ckeditor.com/docs/ckeditor5/latest/fram
 ## Credits
 
 Bundles the [CKEditor 5 inspector](https://github.com/ckeditor/ckeditor5-inspector) tool and
- attaches it to *all* CKEditor instances.
+ attaches it to *all* CKEditor5 instances.
 
 ## License
 
