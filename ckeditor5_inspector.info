@@ -3,4 +3,4 @@ name = CKEditor 5 Inspector
 description = Adds the inspector debugging tool to CKEditor instances
 tags[] = Text Editors
 backdrop = 1.x
-dependencies[] = ckeditor
+dependencies[] = ckeditor5
